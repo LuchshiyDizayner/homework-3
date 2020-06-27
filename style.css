@@ -1,0 +1,44 @@
+  
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.red {
+    color: red;
+}
+
+.logo {
+    width: 150px;
+}
+
+.block {
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+
+.indent {
+    margin-top: 100px;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+
+.padding{
+    padding: 50px;
+}
+
+.indent1{
+    margin-left: 100px;
+}
+
+li{
+    border: black 1px solid;
+    font-size: 30px;
+}
+
+.LittlePadding{
+    padding: 4px;
+}
